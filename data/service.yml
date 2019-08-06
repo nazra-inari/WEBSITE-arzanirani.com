@@ -1,0 +1,45 @@
+enable: true
+title: Services
+subtitle: >
+  Driven by a desire to innovate and optimize, my services aim to build the best custom solutions for businesses and individuals. My objective is to get your brand up to speed with the finest that technology has to offer – in automation, data science and design – by translating business requirements into functional technical software.
+content:
+
+  - icon: ion-ios-cog
+    name: Machine Learning
+    text: >
+      Upgrade your business with the power of artifical inteligence and develop tools that provide continuous quality improvement in complex environments
+
+  - icon: ion-arrow-graph-up-right
+    name: Data Analytics & Reporting
+    text: >
+      Inspect, cleanse, transforms and model data with the goal of discovering useful information, to draw better conclusions and improve decision-making.
+
+  - icon: ion-pie-graph
+    name: Data Visualization
+    text: >
+      Communicate findings in constructive ways. Identify and visualize trends between operations and results to make the faster actionable decisions.
+
+  - icon: ion-ios-loop-strong
+    name: Automation
+    text: >
+       Improve the efficiency and productivity of your operations by automating redundant tasks and delvier a boost to your bottom line.
+
+  - icon: ion-ios-cloud-upload
+    name: Cloud Computing
+    text: >
+      Migrate your business to Amazon Web Services, Microsoft Azure or Google Cloud to enjoy a scalable and secure cloud infrastructure with reduced costs.
+
+  - icon: ion-code-working
+    name: Website Development
+    text: >
+      Develop an e-commerce, blog, portfolio or informational website to improve visibility and accessibility for your business or personal brand.
+
+  - icon: ion-paintbrush
+    name: Graphic Design
+    text: >
+      From presentations and infographics, to media kits, mock ups and pitch decks, I can bring your words and vision to life.
+
+  - icon: ion-social-facebook
+    name: Social Media Avertizing
+    text: >
+      Increase brand awareness, inbound traffic, and conversion rates for your online brand by leveraging the most cost effective form of advertising.

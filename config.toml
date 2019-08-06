@@ -1,0 +1,107 @@
+title = "Arzan Irani | Data Scientist, Engineer, Entrepreneur"
+baseURL = "https://examplesite.com"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+  home = "Home"
+
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "Work"
+      url = "work"
+    [[menu.header]]
+      weight = 3
+      name = "Blog"
+      url = "blog"
+    [[menu.header]]
+      weight = 4
+      name = "Service"
+      url = "service"
+    [[menu.header]]
+      weight = 5
+      name = "Contact"
+      url = "contact"
+
+    [[menu.footer]]
+      weight = 1
+      name = "About us"
+      url = "#"
+    [[menu.footer]]
+      weight = 2
+      name = "Contact us"
+      url = "contact"
+    [[menu.footer]]
+      weight = 3
+      name = "How it works"
+      url = "work"
+    [[menu.footer]]
+      weight = 4
+      name = "Blog"
+      url = "blog"
+    [[menu.footer]]
+      weight = 5
+      name = "Terms"
+      url = "#"
+
+  [params.slider]
+    enable = true
+    title = "A data scientist, engineer &amp; entrepreneur"
+    subtitle = "Your data has an important story to tell; I'm here to give it a voice."
+    bgImage = "img/slider-bg.jpg"
+    btnText = "Explore My Services"
+    url = "service"
+
+  [params.wrapper]
+    enable = true
+    image = "img/wrapper-img.png"
+    title = "About Me"
+    italic = "I am a Data Scientist with experience in predictive analytics, data engineering, machine learning, and cloud computing. My background as an engineer, entrepreneur and data enthusiast make me excited about efficiency and precision while having an avid desire to innovate. I use my cumulative experiences and versatile background to inform my decision making and approach towards problem solving."
+    paragraph1 = "My engineering and entrepreneurial pursuits have seen me develop and mass produce a consumer electronic product, while raising CAD 50,000 in seed capital to launch my very own brand in India. Managing a business taught me the value of systems and data and how they can add efficiency and lay a strong foundation for any company. Following a successful exit from my startup, I was lured towards a role of data engineering and analytics that saw me build data pipelines and warehousing for an e-commerce brand to create company-wide data accessibility, automation and dynamic dashboards."
+    paragraph2 = "Driven by my passion to understand and improve the world around me, I consider myself a perpetual student. I am eager to build on my engineering and business development foundations while continually improving my skills and expertise as a data scientist through academic coursework, real-world projects, and professional development."
+    paragraph3 = "I believe mindfulness, in life and in the workplace, is the key to success and happiness – a tenet I live out through my personal and professional relationships as well as my interests in cooking, meditation, and exercise. I am currently looking for a full-time position as a Data Scientist and to be part of an enterprising and motivated team with a challenging business proposition."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Innovate. Engineer. Deploy."
+    bgImage = "img/feature-bg.jpg"
+    content1 = "Professionally, my disposition has been to try and optimize and improve the world around me. My ambitions push me to design and engineer solutions to real-world problems that help reduce redundancy and express innovation. I choose to express my creativity through design and by pushing my capabilities - while drawing on my diverse background for inspiration. With diligent attention to detail, it is imperative to me that I produce work that I am proud of and can stand behind."
+    content2 = "My academic and professional experience encompasses a wide range of industries and sectors. From data science and engineering to website and software development and graphic design: I feel confident in having the necessary skill set to transform my ideas from fiction to creation."
+    [params.feature.button]
+      caption = "View My Work"
+      url = "work"
+
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "GET IN TOUCH"
+    paragraph = "“Great things in business are never done by one person; they’re done by a team of people.” – Steve Jobs"
+    [params.call.button]
+      url = "contact"
+      text = "Contact Me"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "Vancouver, British Columbia, Canada"
+      email = "Email: arzan.cyrus.irani@gmail.com"
+      phone = "Phone: +1 778 888 7586"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"

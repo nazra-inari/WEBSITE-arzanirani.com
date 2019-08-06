@@ -1,0 +1,42 @@
+enable: true
+title: Education
+paragraph: >
+
+number:
+  enable : true
+numbers:
+  - icon: fas fa-user-graduate
+    counter: 2012
+    school: Embry-Riddle Aeronautical University
+    text: Bachelor of Science in Aerospace Engineering
+  - icon: fas fa-award
+    counter: 2012
+    school: Embry-Riddle Aeronautical University
+    text: Minor in Computer Science and Software Engineering
+  - icon: fas fa-award
+    counter: 2015
+    school: Harvard Business School | Online
+    text: Credential of Readiness in Business Analytics, Economics, and Accounting
+  - icon: fas fa-user-graduate
+    counter: 2019
+    school: University of British Columbia
+    text: Master of Data Science
+
+peoples:
+  enable : true
+people:
+  - text: >
+      The Bachelor of Science in Aerospace Engineering (BSAE) program at Embry-Riddle equips students with skills to solve even the most complex challenges in design, propulsion, and systems for aircraft and/or supercraft. The Aerospace Engineering program is accredited by the Engineering Accreditation Commission of ABET.
+    image: img/Embry-Riddle_Aeronautical_University_Seal.png
+    name: Embry-Riddle Aeronautical University
+    role: Bachelor of Science in Aerospace Engineering & Minor in Computer Science and Software Engineering
+  - text: >
+      HBX CORe (Credential of Readiness) is a 120-150 hour certificate program on the fundamentals of business from Harvard Business School. CORe is comprised of three courses - Business Analytics, Economics for Managers, and Financial Accounting – developed by leading Harvard Business School faculty and delivered in an active learning environment based on the HBS signature case-based learning model.
+    image: img/HBX_CORe_Logo.png
+    name: Harvard Business School | Online
+    role: Credential of Readiness in Business Analytics, Economics, and Accounting
+  - text: >
+      UBC’s Master of Data Science program was designed to address this workforce gap by equipping students with the technical skills, practical experience, and most importantly, the confidence to seize opportunities in an ever-expanding field. The Master of Data Science program teaches students to work with data in all its forms, to ask relevant questions, to analyze, to uncover data stories, and to communicate these stories to those who may take action.
+    image: img/UBC_crest.png
+    name: University of British Columbia
+    role: Master of Data Science
