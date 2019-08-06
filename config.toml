@@ -1,5 +1,5 @@
 title = "Arzan Irani | Data Scientist, Engineer, Entrepreneur"
-baseURL = "https://www.arzanirani.com"
+baseURL = "http://www.arzanirani.com"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
