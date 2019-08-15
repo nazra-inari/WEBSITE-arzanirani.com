@@ -6,11 +6,16 @@
         <div class="footer-manu">
           <ul>
             {{ range .Site.Menus.footer }}
-            <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ if eq .Weight 1}}
+                {{ $aboutmeurl := "https://www.arzanirani.com/#aboutme"}}
+                <li><a href="{{ $aboutmeurl }}">{{ .Name }}</a></li>
+              {{else}}
+                <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{end}}
             {{ end }}
           </ul>
         </div>
-        <p>Copyright &copy; Design &amp; Developed by Themefisher. All rights reserved.</p>
+        <p>Copyright &copy; Design &amp; Developed by Arzan Irani. All rights reserved.</p>
       </div>
     </div>
   </div>

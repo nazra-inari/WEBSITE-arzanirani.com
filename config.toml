@@ -28,24 +28,21 @@ theme = "airspace-hugo"
 
     [[menu.footer]]
       weight = 1
-      name = "About us"
-      url = "#"
+      name = "About Me"
+      url = "#aboutme"
     [[menu.footer]]
       weight = 2
-      name = "Contact us"
+      name = "Contact Me"
       url = "contact"
     [[menu.footer]]
       weight = 3
-      name = "How it works"
+      name = "My Work"
       url = "work"
     [[menu.footer]]
       weight = 4
       name = "Blog"
       url = "blog"
-    [[menu.footer]]
-      weight = 5
-      name = "Terms"
-      url = "#"
+
 
   [params.slider]
     enable = true
