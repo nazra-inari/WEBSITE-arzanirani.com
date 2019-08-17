@@ -35,7 +35,7 @@ portfolio:
     description: >
       Labore et dolore magna aliqua. Ut enim ad
 
-      
+
 clients:
   - image: "/img/clients/clients-logo1.png"
     url: "#"
@@ -47,17 +47,25 @@ clients:
     url: "#"
   - image: "/img/clients/clients-logo5.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clients-logo6.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clients-logo7.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clients-logo8.png"
     url: "#"
-  - image: "/img/clients/clients-logo1.png"
+  - image: "/img/clients/clients-logo9.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clients-logo10.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clients-logo11.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clients-logo12.png"
+    url: "#"
+  - image: "/img/clients/clients-logo13.png"
+    url: "#"
+  - image: "/img/clients/clients-logo14.png"
+    url: "#"
+  - image: "/img/clients/clients-logo15.png"
+    url: "#"
+  - image: "/img/clients/clients-logo16.png"
     url: "#"
