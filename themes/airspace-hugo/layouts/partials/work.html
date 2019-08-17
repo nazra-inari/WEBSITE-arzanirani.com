@@ -22,7 +22,7 @@
                 <ul id="portfolio-contant-active">
                   {{ range .Site.Data.work.portfolio }}
                     <li class="mix {{ .category }}">
-                      <a class="venobox" href="{{ $.Site.BaseURL }}{{ .image }}">
+                      <a href="{{ $.Site.BaseURL }}{{ .url }}">
                         <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
                         <div class="overly">
                           <div class="position-center">

@@ -9,31 +9,37 @@ portfolio:
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/migrate-from-jekyll/"
   - category: Websites
     image: "/img/portfolio/work1.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/hugo-is-for-lovers/"
   - category: Graphics
     image: "/img/portfolio/work2.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/migrate-from-jekyll/"
   - category: Design
     image: "/img/portfolio/work3.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/migrate-from-jekyll/"
   - category: Video
     image: "/img/portfolio/work4.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/migrate-from-jekyll/"
   - category: Video
     image: "/img/portfolio/work4.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
+    url: "/blog/migrate-from-jekyll/"
 
 
 clients:
