@@ -2,6 +2,7 @@
 title = "SSTORM | India's international shopping gateway"
 date = "2019-08-16T13:39:46+02:00"
 description = "This is meta description for blog page"
+author = "Arzan Irani"
 tags = ["hugo"]
 categories = ["pseudo"]
 image = "img/blog/sstorm_india_shopping_gateway/sstorm_blog_title_image.png"
