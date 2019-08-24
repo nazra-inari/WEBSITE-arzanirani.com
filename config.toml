@@ -2,7 +2,7 @@ title = "Arzan Irani | Data Scientist, Engineer, Entrepreneur"
 baseURL = "https://www.arzanirani.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
-summaryLength = 20
+
 
 # The site's parameters
 [params]
