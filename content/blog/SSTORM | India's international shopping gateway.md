@@ -1,5 +1,5 @@
 +++
-title = "SSTORM | India's international shopping gateway"
+title = "SSTORM | International Shopping For India"
 date = "2019-08-16T13:39:46+02:00"
 description = "This is meta description for blog page"
 author = "Arzan Irani"
