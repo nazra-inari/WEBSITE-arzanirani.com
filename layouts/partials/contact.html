@@ -38,17 +38,23 @@
           <h2>{{ .box.title }}</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-map-marker"></i>{{ .box.address }}
+              <i class="fa fa-map-marker" style="color:#00b7bb;"></i>{{ .box.address }}
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>{{ .box.email }}
+              <i class="fa fa-envelope-o" style="color:#00b7bb;"></i>{{ .box.email }}
             </li>
             <li>
-              <i class="fa fa-phone"></i>{{ .box.phone }}
+              <i class="fa fa-phone" style="color:#00b7bb;"></i>{{ .box.phone }}
+            </li>
+            <li>
+              <i class="fab fa-linkedin" style="color:#00b7bb;"></i>{{ .box.linkedin }}
+            </li>
+            <li>
+              <i class="fab fa-github-square" style="color:#00b7bb;"></i>{{ .box.github }}
             </li>
           </ul>
           <ul class="social-icons">
-          {{ range .social }}  
+          {{ range .social }}
             <li>
               <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
             </li>
@@ -61,7 +67,7 @@
         <div class="block">
           <h2>{{ .title }}</h2>
             <div class="google-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.472979439986!2d-73.97769068489596!3d40.7516207793276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590247c56379%3A0x15e13bea38b43e18!2sChrysler+Building!5e0!3m2!1sen!2sus!4v1477406538220" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <iframe src="https://maps.google.com/maps?width=555&amp;height=300&amp;hl=en&amp;q=Vancouver%2C%20British%20Columbia%2C%20Canada+(Arzan%20Irani)&amp;ie=UTF8&amp;t=&amp;z=12&amp;iwloc=B&amp;output=embed" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
         {{ end }}

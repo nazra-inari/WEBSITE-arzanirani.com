@@ -97,9 +97,12 @@ summaryLength = 50
       message = "Your message"
       button = "Send message"
     [params.contact.box]
-      title = "Stop by for a visit"
+      title = "Get in touch"
       address = "Vancouver, British Columbia, Canada"
       email = "Email: arzan.cyrus.irani@gmail.com"
       phone = "Phone: +1 778 888 7586"
+      linkedin = "LinkedIn: https://www.linkedin.com/in/arzan-irani/"
+      github = "GitHub: https://github.com/nazra-inari"
+
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "Currently Located In"
