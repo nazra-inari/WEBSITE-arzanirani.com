@@ -4,42 +4,47 @@ subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 # google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
 portfolio:
-  - category: Branding
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+  - category: Data-Science
+    image: "/img/portfolio/decision_trees_work_tile.png"
+    name: Deep Dive | Decision Trees
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/migrate-from-jekyll/"
-  - category: Websites
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+      Step-by-step walkthrough of decision trees
+    url: "/blog/deep_dive_decision_trees/"
+
+  - category: Data-Science
+    image: "/img/portfolio/hyperparameter_optimization_work_tile.png"
+    name: Guide | Hyperparameter Optimization
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/hugo-is-for-lovers/"
-  - category: Graphics
-    image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+      In depth guide for Hyperparameter Optimization
+    url: "/blog/guide_hyperparameter_optimization/"
+
+  - category: Data-Science
+    image: "/img/portfolio/location_analysis_work_tile.gif"
+    name: Location Analysis
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/migrate-from-jekyll/"
-  - category: Design
-    image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+      Match a business to the right location
+    url: "/blog/location_analysis_business_optimization/"
+
+  - category: Entrepreneurship
+    image: "/img/portfolio/ssotrm_work_tile.png"
+    name: SSTORM
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/migrate-from-jekyll/"
-  - category: Video
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
+      International Shopping Gateway for India
+    url: "/blog/sstorm-indias-international-shopping-gateway/"
+
+  - category: Entrepreneurship
+    image: "/img/portfolio/xyra_work_tile.png"
+    name: XYRA
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/migrate-from-jekyll/"
-  - category: Video
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
+      Make Technology Work for You
+    url: "/blog/xyra-make-technology-work-for-you/"
+
+  - category: Entrepreneurship
+    image: "/img/portfolio/autoheal_work_tile.png"
+    name: AutoHeal
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-    url: "/blog/migrate-from-jekyll/"
+      Maintaining your car has never been easier
+    url: "/blog/autoheal/"
 
 
 clients:
